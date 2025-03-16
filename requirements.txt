@@ -1,0 +1,13 @@
+# Python version requirement
+python>=3.6.0
+
+# All other dependencies are part of Python standard library:
+# - tkinter
+# - subprocess
+# - os
+# - re
+# - threading
+# - time
+
+# External dependency (needs to be installed separately):
+# - FFmpeg (system requirement, not a Python package)
