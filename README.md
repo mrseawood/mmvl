@@ -64,7 +64,7 @@
    - macOS: 使用Homebrew安装 `brew install ffmpeg`
    - Linux: 使用包管理器安装 `apt install ffmpeg` 或 `yum install ffmpeg`
 3. 下载本程序源代码
-4. 运行`无损合并Mp4视频.py`文件
+4. 运行`main.py`文件
 
 ## 版权信息
 
